@@ -1,3 +1,3 @@
 export default {
-  _widgetLabel: 'Token Button'
+  _widgetLabel: 'Button'
 }
