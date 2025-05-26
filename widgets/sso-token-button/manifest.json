@@ -1,6 +1,6 @@
 {
   "name": "sso-token-button",
-  "label": "SSO Button",
+  "label": "SSO Token Button",
   "type": "widget",
   "version": "1.17.0",
   "exbVersion": "1.17.0",
@@ -13,9 +13,14 @@
     "supportRepeat": true,
     "canCrossLayoutBoundary": true,
     "coverLayoutBackground": true,
-    "hasBuilderSupportModule": false
+    "hasBuilderSupportModule": true
   },
   "extensions": [
+    {
+      "name": "quick-style",
+      "point": "CONTEXT_TOOL",
+      "uri": "tools/quick-style"
+    },
     {
       "name": "appConfigOperations",
       "point": "APP_CONFIG_OPERATIONS",
