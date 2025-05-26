@@ -19,12 +19,12 @@
     {
       "name": "quick-style",
       "point": "CONTEXT_TOOL",
-      "uri": "tools/quick-style"
+      "uri": "tools/sso-token-quick-style"
     },
     {
       "name": "appConfigOperations",
       "point": "APP_CONFIG_OPERATIONS",
-      "uri": "tools/app-config-operations"
+      "uri": "tools/sso-token-app-config-operations"
     }
   ],
   "defaultSize": {
