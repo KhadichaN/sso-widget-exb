@@ -17,14 +17,14 @@
   },
   "extensions": [
     {
-      "name": "quick-style",
+      "name": "sso-token-quick-style",
       "point": "CONTEXT_TOOL",
-      "uri": "tools/quick-style"
+      "uri": "tools/sso-token-quick-style"
     },
     {
-      "name": "appConfigOperations",
+      "name": "sso-token-app-config-operation",
       "point": "APP_CONFIG_OPERATIONS",
-      "uri": "tools/app-config-operations"
+      "uri": "tools/sso-token-app-config-operations"
     }
   ],
   "defaultSize": {
