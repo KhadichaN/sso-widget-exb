@@ -1,9 +1,9 @@
 {
   "name": "sso-token-button",
-  "label": "SSO Token Button",
+  "label": "SSO Button",
   "type": "widget",
-  "version": "1.17.0",
-  "exbVersion": "1.17.0",
+  "version": "1.14.0",
+  "exbVersion": "1.14.0",
   "author": "Esri R&D Center Beijing",
   "description": "This is a button widget, which is represented as a UI element, like an icon, text, or the composition.",
   "copyright": "",
@@ -19,12 +19,7 @@
     {
       "name": "quick-style",
       "point": "CONTEXT_TOOL",
-      "uri": "tools/sso-token-quick-style"
-    },
-    {
-      "name": "appConfigOperations",
-      "point": "APP_CONFIG_OPERATIONS",
-      "uri": "tools/sso-token-app-config-operations"
+      "uri": "tools/quick-style"
     }
   ],
   "defaultSize": {
